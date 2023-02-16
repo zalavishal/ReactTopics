@@ -1,0 +1,10 @@
+.panel-dark{
+    background-color: rgba(242, 45, 45, 0.831);
+    height: 200px;
+    width: 200px;
+}
+.panel-light{
+    background-color: rgba(116, 231, 242, 0.711);
+    height: 200px;
+    width: 200px;
+}
